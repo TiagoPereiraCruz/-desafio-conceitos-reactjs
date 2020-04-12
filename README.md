@@ -50,5 +50,6 @@ Para esse desafio temos os seguintes testes:
 
 - **5º passo**: Para testar manualmente execute o comando `yarn start` para rodar o servidor da aplicação que será aberta no navegador em http://localhost:3000/
 
+---
 
 Feito com 💜 by Tiago Pereira :wave: [Me encontre no Linkedin!](https://www.linkedin.com/in/sipereira/)
