@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio
@@ -51,10 +50,5 @@ Para esse desafio temos os seguintes testes:
 
 - **5º passo**: Para testar manualmente execute o comando `yarn start` para rodar o servidor da aplicação que será aberta no navegador em http://localhost:3000/
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
 
 Feito com 💜 by Tiago Pereira :wave: [Me encontre no Linkedin!](https://www.linkedin.com/in/sipereira/)
